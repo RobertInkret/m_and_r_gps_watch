@@ -1,11 +1,13 @@
--- BP 7.1 content: ModelClass syschar: 3 persistence-version: 7.1.6
+-- BP 7.1.6 content: ModelClass syschar: 3 persistence-version: 7.1.6
 
 INSERT INTO O_OBJ
 	VALUES ("21bd91e4-0a7e-4836-84f1-253f2298df88",
 	'LapMarker',
 	4,
 	'LapMarker',
-	'',
+	'LapMarker represents lap.',
+	"00000000-0000-0000-0000-000000000000",
+	"00000000-0000-0000-0000-000000000000",
 	"00000000-0000-0000-0000-000000000000");
 INSERT INTO O_NBATTR
 	VALUES ("a0786293-5443-43ae-a902-37b69cd1d7e3",
